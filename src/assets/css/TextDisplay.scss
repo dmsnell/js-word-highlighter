@@ -1,0 +1,10 @@
+@import 'constants';
+
+.text-display {
+	font-size: $editor-font-size;
+	font-family: $editor-font-family;
+
+	span.match {
+		background-color: yellow;
+	}
+}

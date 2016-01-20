@@ -1,0 +1,12 @@
+@import 'constants';
+
+.text-entry {
+	font-size: $editor-font-size;
+	font-family: $editor-font-family;
+	width: 95%;
+	height: 200px;
+	margin: auto;
+	padding: 7px;
+	border: 2px solid #ccc;
+	margin-bottom: 1em;
+}
